@@ -9,7 +9,7 @@
 7. Create a "career profile" using only print() statements
 8. Print a simple school timetable with five subjects.
 9. Print the multiplication table for number 5 using only print() statements.
-10. Print the English alphabet from A to Z using print() statements.
-	like;
-	A B C D E F G H I J K L M
+10. Print the English alphabet from A to Z using print() statements.   
+	like;   
+	A B C D E F G H I J K L M   
 	N O P Q R S T U V W X Y Z
