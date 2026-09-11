@@ -1,4 +1,4 @@
-# Control Flow Statement Exercise
+# Control Flow Statements Exercise
 
 1. Write a Python program to find those numbers which are divisible by 3 between 10 and 30 (both included).
 
